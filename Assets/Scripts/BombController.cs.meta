@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 74351c6140998a84a995690b42609abe
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bombPrefab: {fileID: 5658388134247150317, guid: b17c642480013d945b39b96b8a846848, type: 3}
+  - explosionPrefab: {fileID: -4019594275063218286, guid: c71f7253c3ee6da47a539108b50af890, type: 3}
+  - destructibleTiles: {instanceID: 0}
+  - destructiblePrefab: {fileID: 893797443249257344, guid: ef5a5190790a4464e94755cfc0a2b6da, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
